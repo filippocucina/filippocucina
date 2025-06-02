@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @filippocucina. I am from Venezuela. trilingual. Computer Science.
-- Game Developer, Backend/Distributed Systems, Computer Vision/AI | VIM, Hacking, Open-Source, Theoretical Computer Science and Game Design enthusiastic
-- C, C++, C# .net, Python and Go programmer.
-- - Here is my website: https://filippocucina.github.io/
+- 👋 Hi, I’m @filippocucina.
+- Programmer of Backend/Distributed Systems, Game Developer and Hacker
+- Here is my website: https://filippocucina.github.io/
