@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @filippocucina.
 - Programmer of Backend/Distributed Systems, Game Developer and Hacker
+- I Enjoy Game Design, Math and Theoretical Computer Science
 - Here is my website: https://filippocucina.github.io/
